@@ -1,2 +1,2 @@
-A website created for a fictional game company. Made using HTML, SASS, JS and Bootstrap.
-under development
+A website created for a fictional game company. Made using HTML, SASS, JS and Bootstrap + Slick.js.
+
